@@ -1,4 +1,12 @@
-# 👋 Hi, I'm Mohamed Sarbudeen
+# 👋 Hi, I'm Mohamed Sarbudeen Nice to see you.
+
+<p align="center">
+  <img src="./sarbu04-profile-roles.gif" alt="Cloud and DevOps roles" width="700">
+</p>
+
+<p align="center">
+  ☁️ <strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong>
+</p>
 
 ### ☁️ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Linux
 
