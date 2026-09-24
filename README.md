@@ -121,3 +121,97 @@ Currently, I'm focused on strengthening my hands-on skills in **Cloud, DevOps, K
 - Resolved Linux server issues and managed customer tickets within SLA.
 
 ---
+---
+
+## 🎓 Education
+
+### 🎓 Master of Computer Applications (MCA)
+
+**University of Madras | Chennai, Tamil Nadu**  
+`2022 – 2024`
+
+### 🎓 Bachelor of Science in Computer Science (B.Sc.)
+
+**University of Madras | Chennai, Tamil Nadu**  
+`2017 – 2020`
+
+---
+
+## 🏆 Certification
+
+### ☁️ AWS Certified Solutions Architect – Associate
+
+**AWS Certified — SAA-C03**
+
+---
+
+## 📚 Currently Learning & Building
+
+### ☁️ Cloud
+
+- AWS Cloud Architecture
+- VPC & Networking
+- High Availability
+- Load Balancing
+- AWS Infrastructure Design
+
+### ⚙️ DevOps
+
+- Terraform
+- Infrastructure as Code
+- CI/CD Pipelines
+- Docker
+- GitHub Actions
+
+### ☸️ Kubernetes
+
+- Kubernetes Administration
+- EKS
+- Deployments & Services
+- Ingress
+- Helm
+- Container Networking
+
+### 📊 Observability
+
+- New Relic
+- Datadog
+- ELK
+- CloudWatch
+- Infrastructure Monitoring
+
+---
+
+## 🎯 Career Focus
+
+I'm focused on building practical skills in:
+
+**Cloud Engineering • DevOps • Kubernetes • Linux • Infrastructure as Code • CI/CD • Monitoring & Observability**
+
+> **Learn → Build → Troubleshoot → Automate → Document**
+
+---
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow **Cloud, DevOps, Linux, and Kubernetes professionals** and discussing cloud technologies, automation, and infrastructure.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sarbu-deen/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Sarbudeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:msarbudeen1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>☁️ Cloud • ⚙️ DevOps • ☸️ Kubernetes • 🐧 Linux • 📊 Observability</strong>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
