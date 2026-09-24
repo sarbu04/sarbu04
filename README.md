@@ -207,7 +207,6 @@ Currently, I'm focused on strengthening my hands-on skills in **Cloud, DevOps, K
 - Infrastructure Monitoring
 
 ---
-
 ## 🎯 Career Focus
 
 I'm focused on building practical skills in:
@@ -215,8 +214,8 @@ I'm focused on building practical skills in:
 **Cloud Engineering • DevOps • Kubernetes • Linux • Infrastructure as Code • CI/CD • Monitoring & Observability**
 
 > **Learn → Build → Troubleshoot → Automate → Document**
----
 
+---
 
 ## 🤝 Let's Connect
 
