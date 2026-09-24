@@ -123,19 +123,45 @@ Currently, I'm focused on strengthening my hands-on skills in **Cloud, DevOps, K
 ---
 ---
 
+---
+
 ## 🎓 Education
 
-### 🎓 Master of Computer Applications (MCA)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 MCA</h3>
+      <p><strong>Master of Computer Applications</strong></p>
+      <p>University of Madras</p>
+      <p>📅 2022 – 2024</p>
+      <p>💻 Applications • Programming • Computer Science</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎓 B.Sc. Computer Science</h3>
+      <p><strong>Bachelor of Science</strong></p>
+      <p>University of Madras</p>
+      <p>📅 2017 – 2020</p>
+      <p>🐧 Started my journey into the world of IT</p>
+    </td>
+  </tr>
+</table>
 
-**University of Madras | Chennai, Tamil Nadu**  
-`2022 – 2024`
+### 🧑‍💻 Education → Career
 
-### 🎓 Bachelor of Science in Computer Science (B.Sc.)
-
-**University of Madras | Chennai, Tamil Nadu**  
-`2017 – 2020`
-
+```text
+🎓 Computer Science
+        ↓
+🐧 Linux & System Administration
+        ↓
+☁️ Cloud Operations
+        ↓
+⚙️ DevOps & CI/CD
+        ↓
+☸️ Kubernetes
+        ↓
+🚀 Cloud & DevOps Engineering
 ---
+💡 Learning never stops — the infrastructure keeps getting more interesting!
 
 ## 🏆 Certification
 
