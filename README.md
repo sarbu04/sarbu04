@@ -215,13 +215,10 @@ I'm focused on building practical skills in:
 **Cloud Engineering • DevOps • Kubernetes • Linux • Infrastructure as Code • CI/CD • Monitoring & Observability**
 
 > **Learn → Build → Troubleshoot → Automate → Document**
+---
 
----
----
 
 ## 🤝 Let's Connect
-
-I'm always interested in connecting with fellow **Cloud, DevOps, Linux, and Kubernetes professionals** and discussing cloud technologies, automation, and infrastructure.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sarbu-deen/">
@@ -235,7 +232,11 @@ I'm always interested in connecting with fellow **Cloud, DevOps, Linux, and Kube
 ---
 
 <p align="center">
-  <strong>☁️ Cloud • ⚙️ DevOps • ☸️ Kubernetes • 🐧 Linux • 📊 Observability</strong>
+  ☁️ Cloud &nbsp;•&nbsp;
+  ⚙️ DevOps &nbsp;•&nbsp;
+  ☸️ Kubernetes &nbsp;•&nbsp;
+  🐧 Linux &nbsp;•&nbsp;
+  📊 Observability
 </p>
 
 <p align="center">
