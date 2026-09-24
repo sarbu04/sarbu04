@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Sarbudeen Nice to see you.
+# 👋 Hi, I'm Mohamed Sarbudeen 
 
 <p align="center">
   <img src="./sarbu04-profile-roles.gif" alt="Cloud and DevOps roles" width="700">
@@ -88,3 +88,36 @@ Currently, I'm focused on strengthening my hands-on skills in **Cloud, DevOps, K
 
 **TCP/IP** • **DNS** • **SSH** • **IAM** • **Security Groups**  
 **iptables** • **firewalld** • **Key-based Authentication**
+---
+
+## 💼 Professional Experience
+
+### ☁️ Associate Consultant – Cloud Operations
+
+**AWAN Infotech Pvt. Ltd. | Chennai**  
+`Mar 2025 – Apr 2026`
+
+- Supported production applications running on **AWS EC2 and Azure Virtual Machines**.
+- Monitored **multi-tenant Kubernetes clusters** across production environments.
+- Worked with **New Relic APM & Infrastructure Monitoring** to troubleshoot application and infrastructure issues.
+- Created **NRQL dashboards and alerts** and performed alert tuning.
+- Supported production deployments using **Azure DevOps CI/CD pipelines**.
+- Monitored CPU, memory, disk, network, and application performance across **1,000+ Windows and Linux servers**.
+- Supported **VM-to-Kubernetes migration** activities with senior engineers.
+- Managed production incidents using **Ivanti Service Manager** and performed **Root Cause Analysis (RCA)**.
+
+### 🐧 Linux & Cloud Administrator
+
+**Keystones Cloud Tech Pvt. Ltd. (HOSTZOP) | Chennai**  
+`Apr 2022 – Dec 2022`
+
+- Administered **Linux servers** including Ubuntu, CentOS, and Red Hat.
+- Provisioned and migrated **virtual machines and hosting environments**.
+- Troubleshot **SSH, DNS, web server, and database issues**.
+- Installed and configured **Apache, Tomcat, MySQL, and PHPMyAdmin**.
+- Performed **OS patching** using YUM/RPM.
+- Managed **LVM, disk partitions, volume resizing, and storage**.
+- Performed backup and restoration of customer data.
+- Resolved Linux server issues and managed customer tickets within SLA.
+
+---
