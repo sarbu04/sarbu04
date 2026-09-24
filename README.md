@@ -5,98 +5,130 @@
 </p>
 
 <p align="center">
+  <strong>☁️ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Linux</strong>
+</p>
+
+<p align="center">
   🏆 <strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong>
 </p>
 
-### ☁️ Cloud & DevOps Engineer | AWS | Azure | Kubernetes | Linux
+---
 
-I'm a **Cloud & DevOps Engineer** with around **2 years of hands-on experience** in cloud operations, production support, infrastructure monitoring, Kubernetes, and CI/CD.
+## 👨‍💻 About Me
+
+I'm a **Cloud & DevOps Engineer** with around **2 years of experience** in cloud operations, production support, infrastructure monitoring, Kubernetes, and CI/CD.
 
 My experience includes supporting production workloads on **AWS and Azure**, managing Linux environments, monitoring Kubernetes clusters, troubleshooting production incidents, and supporting application deployments through CI/CD pipelines.
 
-Currently, I'm focused on strengthening my hands-on skills in **Cloud, DevOps, Kubernetes, Infrastructure as Code, Automation, and Observability** through practical projects and labs.
+I'm currently strengthening my hands-on skills in:
+
+**Cloud Engineering • DevOps • Kubernetes • Infrastructure as Code • CI/CD • Automation • Observability**
+
+> **Learn → Build → Troubleshoot → Automate → Document**
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### ☁️ Cloud Platforms
+## ☁️ Cloud Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure" height="50" alt="AWS and Azure">
+  <img src="https://skillicons.dev/icons?i=aws,azure" height="50" alt="AWS Azure">
 </p>
 
-**AWS:** EC2 • S3 • IAM • VPC • Route 53 • RDS • ELB • Auto Scaling • Lambda • CloudWatch • ECR • ECS • EKS
+### AWS
+**EC2** • **S3** • **IAM** • **VPC** • **Route 53** • **RDS**  
+**Elastic Load Balancing** • **Auto Scaling** • **Lambda** • **CloudWatch**  
+**ECR** • **ECS** • **EKS**
 
-**Azure:** AKS • Virtual Network • Key Vault • Managed Identities • Storage Accounts • Resource Groups
+### Azure
+**Virtual Machines** • **Virtual Network** • **AKS**  
+**Key Vault** • **Managed Identities** • **Storage Accounts** • **Resource Groups**
 
 ---
 
-### 🐳 Containers & Orchestration
+## 🐳 Containers & Orchestration
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="50" alt="Docker Kubernetes Helm">
 </p>
 
-**Docker** • **Kubernetes** • **Helm** • **Amazon EKS** • **Azure AKS**
+**Docker** • **Kubernetes** • **Helm**  
+**Amazon EKS** • **Azure AKS**
 
 ---
 
-### ⚙️ DevOps & CI/CD
+## ⚙️ DevOps & CI/CD
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,jenkins,ansible" height="50" alt="Git GitHub Jenkins Ansible">
 </p>
 
-**Git** • **GitHub** • **GitHub Actions** • **Jenkins** • **Azure DevOps** • **CI/CD** • **Ansible**
+**Git** • **GitHub** • **GitHub Actions**  
+**Jenkins** • **Azure DevOps** • **CI/CD** • **Ansible**
 
 ---
 
-### 🐧 Linux & Automation
+## 🐧 Linux & Automation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,yaml" height="50" alt="Linux Bash Python YAML">
 </p>
 
-**Linux** • **Ubuntu** • **CentOS** • **Red Hat** • **Windows Server**
+### Operating Systems
 
-**Bash / Shell Scripting** • **Python** • **YAML** • **SSH** • **DNS**
+**Ubuntu** • **CentOS** • **Red Hat** • **Amazon Linux** • **Windows Server**
+
+### Automation & Administration
+
+**Bash / Shell Scripting** • **Python** • **YAML**  
+**SSH** • **DNS** • **System Administration**
 
 ---
 
-### 📊 Monitoring & Observability
+## 📊 Monitoring & Observability
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="50" alt="Monitoring">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="50" alt="Prometheus Grafana">
 </p>
 
-**New Relic** • **New Relic APM** • **NRQL** • **ELK** • **CloudWatch**
+**New Relic** • **New Relic APM** • **NRQL**  
+**Datadog** • **ELK** • **CloudWatch**
 
-**Infrastructure Monitoring** • **Application Performance Monitoring** • **Alerting** • **Incident Management** • **Root Cause Analysis**
+### Monitoring & Operations
+
+**Infrastructure Monitoring**  
+**Application Performance Monitoring**  
+**Alerting & Alert Tuning**  
+**Incident Management**  
+**Root Cause Analysis (RCA)**
 
 ---
 
-### 🗄️ Databases & Web Servers
+## 🗄️ Databases & Application Servers
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,apache" height="50" alt="MySQL Apache">
 </p>
 
-**MySQL** • **AWS RDS** • **Apache** • **Tomcat** • **PHPMyAdmin**
+**MySQL** • **AWS RDS**  
+**Apache** • **Tomcat** • **PHPMyAdmin**
 
 ---
 
-### 🌐 Networking & Security
+## 🌐 Networking & Security
 
-**TCP/IP** • **DNS** • **SSH** • **IAM** • **Security Groups**
+**TCP/IP** • **DNS** • **SSH** • **IAM**  
+**VPC** • **Subnets** • **Route Tables**  
+**Security Groups** • **Load Balancing**
 
 **iptables** • **firewalld** • **Key-based Authentication**
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### ☁️ Associate Consultant – Cloud Operations
+## ☁️ Associate Consultant – Cloud Operations
 
 **AWAN Infotech Pvt. Ltd. | Chennai, Tamil Nadu**
 
@@ -112,7 +144,9 @@ Currently, I'm focused on strengthening my hands-on skills in **Cloud, DevOps, K
 - Managed production incidents using **Ivanti Service Manager**.
 - Performed **Root Cause Analysis (RCA)** for production issues.
 
-### 🐧 Linux & Cloud Administrator
+---
+
+## 🐧 Linux & Cloud Administrator
 
 **Keystones Cloud Tech Pvt. Ltd. (HOSTZOP) | Chennai, Tamil Nadu**
 
@@ -129,116 +163,167 @@ Currently, I'm focused on strengthening my hands-on skills in **Cloud, DevOps, K
 
 ---
 
-## 🎓 Education
+# 🚀 Featured Project
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎓 MCA</h3>
-      <strong>Master of Computer Applications</strong>
-      <br>
-      University of Madras
-      <br>
-      📅 2022 – 2024
-      <br>
-      💻 Computer Applications
-    </td>
-    <td align="center" width="50%">
-      <h3>🎓 B.Sc. Computer Science</h3>
-      <strong>Bachelor of Science</strong>
-      <br>
-      University of Madras
-      <br>
-      📅 2017 – 2020
-      <br>
-      🧑‍💻 Started my journey into IT
-    </td>
-  </tr>
-</table>
+## ☁️ Deploy Java Application on AWS – 3-Tier Architecture
 
-### 🧑‍💻 Education → Career
+A hands-on AWS project demonstrating deployment of a Java web application using a production-style **3-tier architecture**.
 
+### Architecture
+
+```text
+                         INTERNET
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │       ALB       │
+                   │  Public Subnet  │
+                   └────────┬────────┘
+                            │
+                            ▼
+              ┌──────────────────────────┐
+              │     Private App Tier     │
+              │                          │
+              │   EC2-A       EC2-B      │
+              │     │           │        │
+              │   Nginx       Nginx      │
+              │     │           │        │
+              │  Tomcat      Tomcat      │
+              │     │           │        │
+              │  Java App    Java App    │
+              └────────────┬─────────────┘
+                           │
+                           │ TCP 3306
+                           ▼
+                  ┌─────────────────┐
+                  │    RDS MySQL    │
+                  │  Private DB Tier│
+                  └─────────────────┘
+AWS Services
+Amazon VPC
+EC2
+Application Load Balancer
+Target Groups
+Auto Scaling
+Amazon RDS MySQL
+Internet Gateway
+Security Groups
+Route Tables
+IAM
+AWS Systems Manager
+Application Stack
+Java
+Spring Boot
+Maven
+Tomcat
+Nginx
+MySQL
+Key Implementation
+Designed a custom VPC with public, application, and database subnets.
+Deployed application servers in private subnets.
+Configured ALB as the public entry point.
+Configured Target Group health checks.
+Deployed Java application using Tomcat.
+Configured Nginx → Tomcat reverse proxy flow.
+Connected the Java application to Amazon RDS MySQL.
+Configured separate Security Groups for:
+ALB
+Application EC2
+RDS
+Configured Auto Scaling Group across two Availability Zones.
+Tested EC2 failure and automatic instance replacement.
+Verified ALB traffic routing to healthy targets.
+Troubleshot application, networking, Tomcat, Nginx, and database connectivity issues.
+🔗 Project Repository
+
+Deploy-Java-Application-on-AWS-3-Tier-Architecture
+
+🎓 Education
+<table> <tr> <td align="center" width="50%"> <h3>🎓 MCA</h3> <strong>Master of Computer Applications</strong> <br> University of Madras <br> 📅 2022 – 2024 <br> 💻 Computer Applications </td>
+<td align="center" width="50%">
+  <h3>🎓 B.Sc. Computer Science</h3>
+  <strong>Bachelor of Science</strong>
+  <br>
+  University of Madras
+  <br>
+  📅 2017 – 2020
+  <br>
+  🧑‍💻 Started my journey into IT
+</td>
+</tr> </table>
+🧑‍💻 Education → Career
 <p align="center">
-  🎓 Computer Science
-  &nbsp;→&nbsp;
-  🐧 Linux
-  &nbsp;→&nbsp;
-  ☁️ Cloud
-  &nbsp;→&nbsp;
-  ⚙️ DevOps
-  &nbsp;→&nbsp;
-  ☸️ Kubernetes
-  &nbsp;→&nbsp;
-  🚀 Cloud Engineering
+
+🎓 Computer Science
+ → 
+🐧 Linux
+ → 
+☁️ Cloud
+ → 
+⚙️ DevOps
+ → 
+☸️ Kubernetes
+ → 
+🚀 Cloud Engineering
+
 </p>
+🏆 Certification
+<p align="center"> <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect--Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" > </p> <p align="center"> <strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong> </p>
+📚 Currently Learning & Building
+☁️ Cloud
 
-> 💡 **Learning never stops — the infrastructure keeps getting more interesting!**
+AWS Cloud Architecture
+VPC & Networking
+High Availability
+Load Balancing
+Infrastructure Design
 
----
+⚙️ DevOps
 
-## 🏆 Certification
+Terraform
+Infrastructure as Code
+CI/CD Pipelines
+Docker
+GitHub Actions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect--Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate">
-</p>
+☸️ Kubernetes
 
-<p align="center">
-  <strong>AWS Certified Solutions Architect – Associate (SAA-C03)</strong>
-</p>
+Kubernetes Administration
+Amazon EKS
+Deployments
+Services
+Ingress
+Helm
 
----
+📊 Observability
 
-## 📚 Currently Learning & Building
+New Relic
+Datadog
+ELK
+CloudWatch
+Infrastructure Monitoring
 
-### ☁️ Cloud
-
-**AWS Cloud Architecture** • **VPC & Networking** • **High Availability** • **Load Balancing** • **Infrastructure Design**
-
-### ⚙️ DevOps
-
-**Terraform** • **Infrastructure as Code** • **CI/CD Pipelines** • **Docker** • **GitHub Actions**
-
-### ☸️ Kubernetes
-
-**Kubernetes Administration** • **EKS** • **Deployments** • **Services** • **Ingress** • **Helm**
-
-### 📊 Observability
-
-**New Relic** • **Datadog** • **ELK** • **CloudWatch** • **Infrastructure Monitoring**
-
----
-
-## 🎯 Career Focus
+🎯 Career Focus
 
 I'm focused on building practical skills in:
 
-**Cloud Engineering • DevOps • Kubernetes • Linux • Infrastructure as Code • CI/CD • Monitoring & Observability**
+Cloud Engineering • DevOps • Kubernetes • Linux
+Infrastructure as Code • CI/CD • Monitoring & Observability
 
-> **Learn → Build → Troubleshoot → Automate → Document**
+Learn → Build → Troubleshoot → Automate → Document
 
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sarbu-deen/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Sarbudeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:msarbudeen1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
+🤝 Let's Connect
+<p align="left"> <a href="https://www.linkedin.com/in/sarbu-deen/"> <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Sarbudeen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" > </a> <a href="mailto:msarbudeen1@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" > </a> </p>
 <p align="center">
-  ☁️ Cloud &nbsp;•&nbsp;
-  ⚙️ DevOps &nbsp;•&nbsp;
-  ☸️ Kubernetes &nbsp;•&nbsp;
-  🐧 Linux &nbsp;•&nbsp;
-  📊 Observability
-</p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+☁️ Cloud  • 
+⚙️ DevOps  • 
+☸️ Kubernetes  • 
+🐧 Linux  • 
+📊 Observability
+
+</p> <p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p> ```
